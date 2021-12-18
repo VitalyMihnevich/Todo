@@ -1,5 +1,7 @@
 # Todo List
 ![Preview Todo!](/image/preview.webp "Preview Todo!")
-##    
-*A simple form of doing business with a mark of completed. 
+## Project   
+*A simple form of doing business with a mark of completion in JavaScript.* 
 [View Demo](https://vitalymihnevich.github.io/Todo/)
+## Built With
+- Bootstrap
